@@ -1,89 +1,26 @@
-📝 Laravel ToDoList – Mini Project
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Ini adalah Mini Project Aplikasi ToDoList berbasis Laravel, dibuat untuk memenuhi Tugas Mini Project KSM Sahabat PNJ - Divisi Web Profesional.  
-Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, dan menghapus daftar tugas harian mereka dengan sistem autentikasi dan tampilan yang user-friendly.
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-👨‍💻 Developer
-
-- Nama  : Muh.Akmal Fahim
-- NIM   : C2C023019
-- Kelas : Reg -A
-
-🔧 Fitur Utama
-
-- ✅ Registrasi & Login pengguna  
-- ✅ Dashboard ToDo untuk pengguna terautentikasi  
-- ✅ CRUD ToDo:
-  - Tambah tugas
-  - Edit tugas
-  - Tandai tugas selesai/belum
-  - Hapus tugas  
-- ✅ Editor deskripsi menggunakan Trix Editor  
-- ✅ Validasi data input  
-- ✅ Pagination daftar tugas  
+# UAS CLOUD COMPUTING
 
 
-📁 Struktur Folder Penting
-
-├── app/
-├── resources/
-│ └── views/
-│ ├── layouts/
-│ ├── login/
-│ ├── register/
-│ └── todo/
-├── routes/
-│ └── web.php
-├── database/
-│ └── migrations/
-├── public/
-└── .env.example
+Sistem informasi manajemen aset biasanya diperlukan untuk memantau dan mengelola aset organisasi atau perusahaan. Tujuan utama dari sistem ini adalah untuk membantu organisasi dalam mengoptimalkan penggunaan aset mereka dan memastikan bahwa mereka beroperasi secara efektif dan efisien.
 
 
-⚙️ Teknologi yang Digunakan
 
-- Laravel 10+
-- PHP 8+
-- Bootstrap 5.3
-- Trix Editor
-- Git & GitHub
+## Teknologi
 
-📸 Preview Tampilan UI
+Sistem Informasi Manajemen Aset menggunakan beberapa Teknologi diantaranya :
 
-Berikut adalah beberapa cuplikan tampilan dari aplikasi Laravel ToDoList:
-
-🏠 Home
-![Home](https://i.imgur.com/ugX3t6l.png)
-
-ℹ️ About
-![About](https://i.imgur.com/8KLcpSq.png)
-
-📝 Register
-![Register](https://i.imgur.com/cO0u6aU.png)
-
-🔐 Login
-![Login](https://i.imgur.com/4ONZ17n.png)
-
-🗒️ Sebelum Membuat ToDo
-![Sebelum Membuat Todo](https://i.imgur.com/HnVMFJG.png)
-
-➕ Saat Membuat ToDo
-![Saat Membuat Todo](https://i.imgur.com/js9GL3x.png)
-
-✅ Setelah Membuat ToDo
-![Setelah Membuat Todo](https://i.imgur.com/zur6JXN.png)
-
-✏️ Saat Mengedit ToDo
-![Saat Mengedit Todo](https://i.imgur.com/QhTwRmh.png)
+- Laravel - The PHP Framework for Web Artisans
+- JavaScript - JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
+- Bootstrap - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. 
 
 
-🚀 Cara Menjalankan Project Secara Lokal
 
-```bash
-git clone https://github.com/FathiKhairanPratama22/laravel-todolist.git
-cd laravel-todolist
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve

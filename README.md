@@ -10,9 +10,6 @@
 # UAS CLOUD COMPUTING
 
 
-Sistem informasi manajemen aset biasanya diperlukan untuk memantau dan mengelola aset organisasi atau perusahaan. Tujuan utama dari sistem ini adalah untuk membantu organisasi dalam mengoptimalkan penggunaan aset mereka dan memastikan bahwa mereka beroperasi secara efektif dan efisien.
-
-
 
 ## Teknologi
 

@@ -18,7 +18,7 @@ test('authenticated user can create a todo', function () {
     $this->assertDatabaseHas('todos', [
         'name' => 'Belajar CI/CD',
         'description' => 'Membuat demonstrasi pipeline GitHub Actions',
-        'is_done' => true,
+        'is_done' => false,
         'user_id' => $user->id,
     ]);
 });

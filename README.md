@@ -5,9 +5,9 @@ Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, dan menghapus daftar
 
 👨‍💻 Developer
 
-- Nama  : Fathi Khairan Pratama  
-- NIM   : 2407412024  
-- Kelas : TI2A - CCIT
+- Nama  : Muh.Akmal Fahim
+- NIM   : C2C023019
+- Kelas : Reg -A
 
 🔧 Fitur Utama
 

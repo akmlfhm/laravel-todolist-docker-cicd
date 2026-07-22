@@ -50,7 +50,7 @@
 
     {{-- Footer --}}
     <footer class="text-center py-3 text-muted border-top mt-5">
-        <small>&copy; {{ date('Y') }} Fathi Khairan Pratama - Mini Project 2 Aplikasi ToDoList Laravel</small>
+        <small>&copy; {{ date('Y') }} Muh. Akmal Fahim - Mini Project 2 Aplikasi ToDoList Laravel</small>
     </footer>
 
     <!-- Bootstrap JS -->
